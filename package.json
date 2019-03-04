@@ -1,7 +1,7 @@
 {
-  "name": "mall-admin-web",
+  "name": "",
   "version": "1.0.0",
-  "description": "mall后台管理前端",
+  "description": "",
   "author": "macro",
   "private": true,
   "scripts": {

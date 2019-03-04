@@ -1,25 +1,5 @@
 <template>
   <div class="app-container">
-    <div class="address-layout">
-      <el-row :gutter="20">
-        <el-col :span="12">
-          <div class="out-border">
-            <div class="layout-title">GitHub地址</div>
-            <div style="padding: 20px;font-size: 18px" class="color-main">
-              <a href="https://github.com/macrozheng/mall">https://github.com/macrozheng/mall</a>
-            </div>
-          </div>
-        </el-col>
-        <el-col :span="12">
-          <div class="out-border">
-            <div class="layout-title">码云地址</div>
-            <div style="padding: 20px;font-size: 18px" class="color-main">
-              <a href="https://gitee.com/macrozheng/mall">https://gitee.com/macrozheng/mall</a>
-            </div>
-          </div>
-        </el-col>
-      </el-row>
-    </div>
     <div class="total-layout">
       <el-row :gutter="20">
         <el-col :span="6">
